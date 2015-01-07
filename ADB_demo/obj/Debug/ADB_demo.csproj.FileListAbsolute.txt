@@ -1,0 +1,13 @@
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\fixtures\Redstone_Dev_Android.apk
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\fixtures\Redstone_Dev_Android_standalone.apk
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\ADB_demo.exe.config
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\ADB_demo.exe
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\ADB_demo.pdb
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\Managed.AndroidDebugBridge.dll
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\nunit.framework.dll
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\Managed.AndroidDebugBridge.pdb
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\Managed.AndroidDebugBridge.xml
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\bin\Debug\nunit.framework.xml
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\obj\Debug\ADB_demo.exe
+C:\Users\wworden\Documents\Visual Studio 2013\Projects\ADB_demo\ADB_demo\obj\Debug\ADB_demo.pdb
